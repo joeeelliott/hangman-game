@@ -1,6 +1,6 @@
 #Hangman-Game
 
-This fully responsive design hangman game doesn't include the actual step-by-step visual of the picture man hanging as the game goes along, but it does have a lives count.
+This fully responsive design hangman game doesn't include the actual step-by-step visual of the stick man hanging as the game goes along, but it does have a lives count.
 
 Press start to begin the game, and click on letter to guess the letters of the word. Once clicked, a class is added to the clicked letter to appear clicked.
 
