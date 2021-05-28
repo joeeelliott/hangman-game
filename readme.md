@@ -1,4 +1,4 @@
-#Hangman-Game
+# Hangman-Game
 
 This fully responsive design hangman game doesn't include the actual step-by-step visual of the stick man hanging as the game goes along, but it does have a lives count.
 
